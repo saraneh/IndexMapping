@@ -21,8 +21,8 @@ Run the python codes which will create and populate the attribute table fields
 Manually fill in values for the rest of the fields
 
 |henlo|goodbye|
----------------
-|beep|beep|
+|goodbye|henlo|
+|
 ### Step Five:
 Convert from Shapefile to GeoJSON in Arcmap
 
