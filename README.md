@@ -3,6 +3,8 @@
 <details open>
   <summary><b>What You'll Need:</b></summary>
 <br>
+  - hello
+  - goodbye
 1. Index Map
 2. DRS report for the index map
 3. ArcMap
