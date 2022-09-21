@@ -2,7 +2,6 @@
 
 <details open>
   <summary><b>What You'll Need:</b></summary>
-<br>
 <ul>
 <li> markdown list 1</li>
 <ul>
