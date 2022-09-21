@@ -1,6 +1,6 @@
 # IndexMapping
 
-<details>
+<details open>
   <summary><b>What You'll Need:</b></summary>
 <br>
 1. Index Map
