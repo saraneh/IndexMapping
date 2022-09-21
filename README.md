@@ -19,6 +19,10 @@ Once your image has been georeferenced, digitize the polygons for the index map
 Run the python codes which will create and populate the attribute table fields
 ### Step Four:
 Manually fill in values for the rest of the fields
+
+|henlo|goodbye|
+---------------
+|beep|beep|
 ### Step Five:
 Convert from Shapefile to GeoJSON in Arcmap
 
