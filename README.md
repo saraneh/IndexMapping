@@ -1,4 +1,4 @@
-# IndexMapping
+# Creating the Index Map
 
 <details open>
   <summary><b>What You'll Need:</b></summary>
@@ -7,9 +7,18 @@
 <li>DRS Report for the index map</li>
 <li>ArcMap</li>  
 <li>'HarvardMapCollection' Sharepoint Access</li>    
-<li>Python IDE (or any text editor)</li>  
-<li>QGIS</li>     
+<li>Python IDE (or any text editor)</li>     
 </ol>
 </details>
 
 ### Step One:
+Georeference the index map in ArcMap
+### Step Two:
+Once your image has been georeferenced, digitize the polygons for the index map
+### Step Three:
+Run the python codes which will create and populate the attribute table fields
+### Step Four:
+Manually fill in values for the rest of the fields
+### Step Five:
+Convert from Shapefile to GeoJSON in Arcmap
+
