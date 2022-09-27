@@ -11,7 +11,7 @@
 </details>
 
 ### Step One:
-**Georeference the map in ArcMap** Make sure the right coordinate system is selected for your project (WGS 1984 is fine).
+**Georeference the parent map in ArcMap** Make sure the right coordinate system is selected for your project (WGS 1984 is fine).
 ### Step Two:
 **Once your image has been georeferenced, digitize the polygons for the index map.** Each index map will be one polygon, and every polygon will be stored in one single shapefile.
 ### Step Three:
