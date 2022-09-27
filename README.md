@@ -23,6 +23,10 @@
 ### Step Four:
 **Manually fill in values for the rest of the fields**
 
+`label:`
+
+`title:`
+
 `Available: (true/false) Indicates if we have the index map in our collection`
 
 `Download: (none)`
