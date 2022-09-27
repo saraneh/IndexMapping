@@ -23,17 +23,17 @@
 ### Step Four:
 **Manually fill in values for the rest of the fields**
 
-`label:`
+`label: (string) Alphanumeric code identifying the sheet or frame, e.g. "L-16"`
 
-`title:`
+`title: (string) title of the sheet map, e.g. "Santiago"`
 
 `Available: (true/false) Indicates if we have the index map in our collection`
 
 `Download: (none)`
 
-`iiifURL: (the URN, appended by '?buttons=y') This creates the link to the IIIF image viewer`
+`iiifURL: (the URN, appended by '?buttons=y') This creates the link to the IIIF image viewer, e.g. "http://nrs.harvard.edu/URN-3:FHCL:102285046?buttons=y`
 
-`thumbURL: (the URN, appended by '?width=200') This creates the thumbnail for the index map`
+`thumbURL: (the URN, appended by '?width=200') This creates the thumbnail for the index map, e.g. "http://nrs.harvard.edu/URN-3:FHCL:102285046?width=200"`
 
 ### Step Five:
 Convert from Shapefile to GeoJSON in Arcmap
