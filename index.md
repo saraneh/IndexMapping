@@ -41,7 +41,7 @@
 
 ### Step Five:
 **Next open *populateAeonfield.py* in your IDE or text editor**. Edit the variables listed at the top of the script and then run it.
-- This script creates the Aeon link and is stored in the *notes* field of the attribute table.
+- This script creates the Aeon link and then stores it in the *notes* field of the attribute table.
 
 ### Done!
 
