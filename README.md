@@ -24,7 +24,7 @@
 **Manually fill in values for the rest of the fields**
 
 - `label:` (string) Alphanumeric code identifying the sheet or frame. This is usually a handwritten number which is found on the bottom of the scanned map image.
-  - e.g. "L-16"
+  - e.g. Sheet 2 out of 8 would be labeled "2"
 
 - `title:` (string) title of the sheet or frame. If not found on the scanned map image, check the Hollis metadata, in the *Contents* section.
   - e.g. "Santiago" 
