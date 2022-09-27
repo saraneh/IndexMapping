@@ -6,7 +6,7 @@
 <li>Index map</li>
 <li>DRS Report for the index map</li>
 <li>ArcMap</li>  
-  <li><i>HarvardMapCollection* Sharepoint Access</i></li>    
+  <li><i>HarvardMapCollection</i> Sharepoint Access</li>    
 <li>Python IDE (or any text editor)</li>     
 </ol>
 </details>
