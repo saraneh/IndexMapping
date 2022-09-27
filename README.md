@@ -21,7 +21,15 @@
 - Open *addGeosonFields.py* in your IDE or text editor of choice. Change the variables as needed and run the script.
 - Next open, edit, and run *populateAeonfield.py*
 ### Step Four:
-Manually fill in values for the rest of the fields
+**Manually fill in values for the rest of the fields**
+---
+layout: classic-docs
+title: "Caching in CircleCI"
+short-title: "Caching"
+description: "Caching strategies to increase build speeds"
+categories: [configuring-jobs]
+order: 20
+---
 ### Step Five:
 Convert from Shapefile to GeoJSON in Arcmap
 
