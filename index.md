@@ -13,7 +13,7 @@
 ### Step One:
 **Georeference the parent map in ArcMap.** This is the map which contains all the smaller, index maps. Make sure the apporpriate coordinate system is selected while doing this (WGS 1984 is fine).
 ### Step Two:
-**Once your image has been georeferenced, digitize the polygons for the index map.** Each index map will be one polygon, and every polygon will be stored in one single shapefile.
+**Once your image has been georeferenced, use map to digitize the index map polygons.** Each index map will be one polygon, and every polygon will be stored in one single shapefile.
 ### Step Three:
 **Run the python code which will create and populate the attribute table fields.** These can be found in the [HarvardMapCollection sharepoint](https://hu.sharepoint.com/sites/HarvardMapCollection)
 - Go to Documents > IndexMapProject and download 1) *addGeosonFields.py* and 2) *populateAeonfield.py*
