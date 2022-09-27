@@ -23,7 +23,7 @@
 ### Step Four:
 **Manually fill in values for the rest of the fields**
 
-- label: (string) Alphanumeric code identifying the sheet or frame`
+- `label:` (string) Alphanumeric code identifying the sheet or frame`
   - e.g. "L-16"`
 
 `title: (string) title of the sheet map`
