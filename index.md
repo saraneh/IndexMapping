@@ -29,9 +29,9 @@
 - `title:` (string) title of the sheet or frame. If not found on the scanned map image, check the Hollis metadata, in the *Contents* section.
   - e.g. "Santiago" 
 
-- `Available:` (Boolean: true/false) Indicates if we have the index map in our collection
+- `available:` (Boolean: true/false) Indicates if we have the index map in our collection
 
-- `Download:` (none)
+- `download:` (none)
 
 - `iiifURL:` (string) (the URN, appended by `?buttons=y`. This creates the link to the IIIF image viewer.
   - e.g. "http://nrs.harvard.edu/URN-3:FHCL:102285046?buttons=y"
