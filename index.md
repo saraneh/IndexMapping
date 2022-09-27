@@ -1,10 +1,10 @@
-# Creating the Index Map
+# Creating Index Maps
 
 <details open>
   <summary><b>What You'll Need:</b></summary>
 <ol>
 <li>Index map</li>
-<li>DRS Report for the index map</li>
+<li>DRS deposit report for the index maps</li>
 <li>ArcMap</li>  
   <li><i>HarvardMapCollection</i> Sharepoint Access</li>    
 <li>Python IDE (or any text editor)</li>     
