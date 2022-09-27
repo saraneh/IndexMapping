@@ -16,10 +16,10 @@
 ### Step Two:
 **Once your image has been georeferenced, digitize the polygons for the index map.** Each index map will be one polygon, and every polygon will be stored in one single shapefile.
 ### Step Three:
-**Run the python codes which will create and populate the attribute table fields.** These can be found in the [HarvardMapCollection sharepoint](https://hu.sharepoint.com/sites/HarvardMapCollection)
+**Run the python code which will create and populate the attribute table fields.** These can be found in the [HarvardMapCollection sharepoint](https://hu.sharepoint.com/sites/HarvardMapCollection)
 - Go to Documents > IndexMapProject and download 1) *addGeosonFields.py* and 2) *populateAeonfield.py*
 - Open *addGeosonFields.py* in your IDE or text editor of choice. Change the variables as needed and run the script.
-- Next open, edit, and run *populateAeonfield.py*
+
 ### Step Four:
 **Manually fill in values for the rest of the fields**
 
@@ -40,5 +40,5 @@
   - e.g. "http://nrs.harvard.edu/URN-3:FHCL:102285046?width=200"
 
 ### Step Five:
-Convert from Shapefile to GeoJSON in Arcmap
+**Next open, edit, and run *populateAeonfield.py**
 
