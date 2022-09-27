@@ -33,10 +33,10 @@
 
 - `Download:` (none)
 
-- `iiifURL:` (string) (the URN, appended by *"?buttons=y".* This creates the link to the IIIF image viewer
+- `iiifURL:` (string) (the URN, appended by `buttons=y`.* This creates the link to the IIIF image viewer
   - e.g. "http://nrs.harvard.edu/URN-3:FHCL:102285046?buttons=y"
 
-- `thumbURL:` (string) the URN, appended by *"?width=200".* This creates the thumbnail for the index map
+- `thumbURL:` (string) the URN, appended by `?width=200"`. This creates the thumbnail for the index map
   - e.g. "http://nrs.harvard.edu/URN-3:FHCL:102285046?width=200"
 
 ### Step Five:
