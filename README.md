@@ -17,7 +17,7 @@
 **Once your image has been georeferenced, digitize the polygons for the index map.** Create one shapefile containing multiple polygons.
 ### Step Three:
 **Run the python codes which will create and populate the attribute table fields.** These can be found in the [HarvardMapCollection sharepoint](https://hu.sharepoint.com/sites/HarvardMapCollection)
-- Go to Documents > IndexMapProject and download 1) *addGeosonFields.py* and 2)*populateAeonfield.py*
+- Go to Documents > IndexMapProject and download 1) *addGeosonFields.py* and 2) *populateAeonfield.py*
 - Open *addGeosonFields.py* in your IDE or text editor of choice. Change the variables as needed and run the script.
 - Next run *populateAeonfield.py*
 ### Step Four:
