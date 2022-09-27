@@ -12,11 +12,11 @@
 </details>
 
 ### Step One:
-*Georeference the index map in ArcMap*
+**Georeference the index map in ArcMap**
 ### Step Two:
-*Once your image has been georeferenced, digitize the polygons for the index map.* Create one shapefile containing multiple polygons.
+**Once your image has been georeferenced, digitize the polygons for the index map.** Create one shapefile containing multiple polygons.
 ### Step Three:
-*Run the python codes which will create and populate the attribute table fields.*
+**Run the python codes which will create and populate the attribute table fields.** These can be found in the [HarvardMapCollection sharepoint](https://hu.sharepoint.com/sites/HarvardMapCollection)
 ### Step Four:
 Manually fill in values for the rest of the fields
 ### Step Five:
