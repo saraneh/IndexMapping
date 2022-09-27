@@ -24,11 +24,9 @@
 **Manually fill in values for the rest of the fields**
 
 `Available: (true/false) Indicates if we have the index map in our collection
-Download: (none)
-
-iiifURL: (the URN, appended by '?buttons=y') This creates the link to the IIIF image viewer
-
-thumbURL: (the URN, appended by '?width=200') This creates the thumbnail for the index map`
+Download: (none)`
+`iiifURL: (the URN, appended by '?buttons=y') This creates the link to the IIIF image viewer`
+`thumbURL: (the URN, appended by '?width=200') This creates the thumbnail for the index map`
 
 ### Step Five:
 Convert from Shapefile to GeoJSON in Arcmap
