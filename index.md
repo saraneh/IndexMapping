@@ -29,7 +29,7 @@
 - `title:` (string) title of the sheet or frame. If not found on the scanned map image, check the Hollis metadata, in the *Contents* section.
   - e.g. "Santiago" 
 
-- `available:` (Boolean: true/false) Indicates if we have the index map in our collection
+- `available:` (Boolean: true/false) Indicates if we have the index map in our collection.
 
 - `download:` (none)
 
