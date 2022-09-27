@@ -25,7 +25,9 @@
 
 `Available: (true/false) Indicates if we have the index map in our collection
 Download: (none)
+
 iiifURL: (the URN, appended by '?buttons=y') This creates the link to the IIIF image viewer
+
 thumbURL: (the URN, appended by '?width=200') This creates the thumbnail for the index map`
 
 ### Step Five:
