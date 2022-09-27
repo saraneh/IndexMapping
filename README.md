@@ -40,7 +40,7 @@
   - e.g. "http://nrs.harvard.edu/URN-3:FHCL:102285046?width=200"
 
 ### Step Five:
-**Next open *populateAeonfield.py* in your IDE or text editor**. Edit the variables and run.
+**Next open *populateAeonfield.py* in your IDE or text editor**. Edit the variables listed at the top of teh script and then run it.
 
 ### Done!
 
