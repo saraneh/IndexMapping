@@ -11,7 +11,7 @@
 </details>
 
 ### Step One:
-**Georeference the parent map in ArcMap.** This is the map which contains all the smaller, index maps. Make sure the appropriate coordinate system is selected while doing this (WGS 1984 is fine).
+**Georeference the index map in ArcMap.** This is the parent map which contains all the smaller, map sheets. Make sure the appropriate coordinate system is selected while doing this (WGS 1984 is fine).
 ### Step Two:
 **Once your image has been georeferenced, use map to digitize the index map polygons.** Each index map will be one polygon, and every polygon will be stored in one single shapefile. 
 > **Note:** *Some polygons will not have an index map linked to it, but all index maps will link to exactly one polygon.*
